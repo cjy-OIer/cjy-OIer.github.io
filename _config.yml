@@ -1,0 +1,4 @@
+# _config.yml
+title: "CJY的个人博客"          # 博客标题
+description: "记录技术成长与生活点滴" # 博客描述
+theme: minima                 # 官方推荐的主题，简洁美观
